@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">khongthoai</string>
+    <string name="FACEBOOK_APP_ID">302213670368476</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">26a054a55356b0db4577e03ef43d7dd3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
